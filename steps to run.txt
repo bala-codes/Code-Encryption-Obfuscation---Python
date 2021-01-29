@@ -1,3 +1,4 @@
 1. pip3 install pyarmor 
 
 2. pyarmor obfuscate --restrict=0 utils.py
+

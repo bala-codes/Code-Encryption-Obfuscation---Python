@@ -1,6 +1,7 @@
 import os, json, sys
 from datetime import datetime
 
+
 def inference(name="", tag = True):
 	'''
 	if the current year is 2021, then inference function will run successfully, otherwise fails.
